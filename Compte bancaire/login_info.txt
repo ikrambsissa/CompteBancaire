@@ -1,0 +1,3 @@
+Username: Ikram
+Password: 12345
+sold:10000
